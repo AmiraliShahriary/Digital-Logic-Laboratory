@@ -1,6 +1,7 @@
 # Digital_Logic_Laboratory
 
-Digital Logic Laboratory (DLD) Experiments reports.
+Digital Logic Laboratory (DLD) Experiments reports @ ECE, University of Tehran, spring 2023.
+
 
 Experiment_1 : Clock and Periodic Signal Generation
 
