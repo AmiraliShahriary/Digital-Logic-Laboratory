@@ -1,4 +1,4 @@
-# Digital_Logic_Laboratory
+# Digital-Logic-Laboratory
 
 Digital Logic Laboratory (DLD) Experiments reports @ ECE, University of Tehran, spring 2023.
 
